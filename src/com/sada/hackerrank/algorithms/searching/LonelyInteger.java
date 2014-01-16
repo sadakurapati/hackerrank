@@ -21,7 +21,7 @@
  * OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
  * THE SOFTWARE.
  */
-package com.sada.hackerrannk.algorithms.searching;
+package com.sada.hackerrank.algorithms.searching;
 
 import java.util.Scanner;
 
